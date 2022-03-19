@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Knarfydo
-- 👀 I’m interested in ...Lurn programation, i start from scratch 
+- 👀 I’m interested in ...Learn programation, i start from scratch 
 - 🌱 I’m currently learning ...C# and pyton
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me ...X
